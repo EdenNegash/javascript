@@ -40,7 +40,12 @@ const itemPrice = (array) => {
 
     case 'router':
         total = total + 100; 
-         break;     
+         break;  
+          
+    default:
+        
+    return ('item not avelable');
+        break;
     }
     
   }
