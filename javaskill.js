@@ -8,7 +8,7 @@ const totalBasketballScore = (freeThrows,midRange,threePointers) => {
 
     }
     else{
-        console.log("enter valid point");
+        console.log('enter valid point');
     }
 
 }
@@ -45,7 +45,7 @@ const itemPrice = (array) => {
     }
     
   }
-  console.log("Total price for computer $" + total);
+  console.log('Total price for computer $' + total);
   
 }
 
