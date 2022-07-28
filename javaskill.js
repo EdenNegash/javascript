@@ -8,7 +8,7 @@ const totalBasketballScore = (freeThrows,midRange,threePointers) => {
 
     }
     else{
-        console.log('enter valid point');
+        console.log('point');
     }
 
 }
