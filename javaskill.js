@@ -42,10 +42,6 @@ const itemPrice = (array) => {
         total = total + 100; 
          break;  
           
-    default:
-        
-    return ('item not avelable');
-        break;
     }
     
   }
